@@ -88,3 +88,10 @@ https://insights.stackoverflow.com/survey
 
 
 </h4>
+
+
+<h4 dir=rtl>
+برای دیدن ارائه ی این تمرین به لینک زیر مراجعه فرمایید:
+
+https://www.aparat.com/v/qahjW/%D8%B3%DB%8C%D8%AF_%D8%A8%D8%AF%D8%B1%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C_%D8%B5%D8%AF%D8%B1
+</h4>
