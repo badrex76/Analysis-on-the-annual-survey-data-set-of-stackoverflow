@@ -64,6 +64,7 @@ https://insights.stackoverflow.com/survey
 ![image](https://user-images.githubusercontent.com/68844865/109546711-69d60100-7a7f-11eb-98df-6a7031c2c80a.png)
 ![image](https://user-images.githubusercontent.com/68844865/109546733-6e021e80-7a7f-11eb-8f48-51ccadccde5a.png)
 ![image](https://user-images.githubusercontent.com/68844865/109546748-70fd0f00-7a7f-11eb-871c-e1305d26c517.png)
+![image](https://user-images.githubusercontent.com/68844865/109547672-81fa5000-7a80-11eb-9089-29cbca3e3798.png)
 
 
 2.      حقوق و دست مزد توسعه دهندگان و متخصصان دیتا چقدر است؟
@@ -72,13 +73,18 @@ https://insights.stackoverflow.com/survey
 
 
 3.      کدام فرمورک برای متخصصان داری حقوق بالاتر است؟
+![image](https://user-images.githubusercontent.com/68844865/109547875-c84faf00-7a80-11eb-902f-c55cf4170804.png)
+![image](https://user-images.githubusercontent.com/68844865/109547913-d7366180-7a80-11eb-8c93-3f1b1b3a18d4.png)
 
 
 4.      آیا data scientists  نسبت به non-data scientists  از شغل خود رضایت بیشتری دارند؟
-![image](https://user-images.githubusercontent.com/68844865/109546870-91c56480-7a7f-11eb-8d83-03d62e849682.png)
+![image](https://user-images.githubusercontent.com/68844865/109547727-963e4d00-7a80-11eb-8693-8d8ff75e7d2b.png)
+
 
 
 5.      data scientists از چه زبان های برنامه نویسی طرفداری می کنند و تفاوت آنها با زبان های مورد استفاده non-data scientists چیست؟ 
+![image](https://user-images.githubusercontent.com/68844865/109547622-6bec8f80-7a80-11eb-968c-84e4488787af.png)
+![image](https://user-images.githubusercontent.com/68844865/109547629-6e4ee980-7a80-11eb-9d9a-0a52f2a28307.png)
 
 
 </h4>
