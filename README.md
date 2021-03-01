@@ -9,7 +9,7 @@
 </h4>
 
 
-![image](https://user-images.githubusercontent.com/68844865/109546596-490dab80-7a7f-11eb-9fc2-7f06714210a9.png)
+
 
 
 
@@ -60,12 +60,25 @@ https://insights.stackoverflow.com/survey
 
 1.      مشخصات data scientists  با non-data scientists  چه تفاوتی دارد؟
 
+![image](https://user-images.githubusercontent.com/68844865/109546596-490dab80-7a7f-11eb-9fc2-7f06714210a9.png)
+![image](https://user-images.githubusercontent.com/68844865/109546711-69d60100-7a7f-11eb-98df-6a7031c2c80a.png)
+![image](https://user-images.githubusercontent.com/68844865/109546733-6e021e80-7a7f-11eb-8f48-51ccadccde5a.png)
+![image](https://user-images.githubusercontent.com/68844865/109546748-70fd0f00-7a7f-11eb-871c-e1305d26c517.png)
+
+
 2.      حقوق و دست مزد توسعه دهندگان و متخصصان دیتا چقدر است؟
+![image](https://user-images.githubusercontent.com/68844865/109546793-7eb29480-7a7f-11eb-976c-72eb47741cc9.png)
+
+
 
 3.      کدام فرمورک برای متخصصان داری حقوق بالاتر است؟
 
+
 4.      آیا data scientists  نسبت به non-data scientists  از شغل خود رضایت بیشتری دارند؟
+![image](https://user-images.githubusercontent.com/68844865/109546870-91c56480-7a7f-11eb-8d83-03d62e849682.png)
+
 
 5.      data scientists از چه زبان های برنامه نویسی طرفداری می کنند و تفاوت آنها با زبان های مورد استفاده non-data scientists چیست؟ 
+
 
 </h4>
